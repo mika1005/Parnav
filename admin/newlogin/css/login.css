@@ -1,0 +1,212 @@
+.img-logo {
+    width: 80px;
+    height: 80px;
+}
+
+.img-name img[style] {
+    width: 250px !important;
+    height: 70px !important;
+}
+
+
+
+.login_newtheme {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.login-form {
+    width: 55%;
+}
+
+.login100-more {
+    width: calc(100% - 55%);
+    background-color: #dc3545;
+}
+
+.power_01 {
+    position: fixed;
+    right: 2rem;
+    bottom: 1.2rem;
+}
+
+.mt-24 {
+    margin-top: -24px;
+}
+
+
+
+
+.px-30 {
+    width: 170px;
+}
+
+.main-div {
+    display: block;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    right: -10rem;
+    position: relative;
+}
+
+
+
+.login-form-social-item {
+    width: 100%;
+}
+
+.test_01 {
+    text-align: left;
+    margin-bottom: 8px;
+    font-size: 12px;
+}
+
+.test_2 {
+    font-size: 12px;
+    color: #2a2a2a;
+    font-weight: 500;
+}
+
+
+
+.login_01 {
+    color: #ffc107;
+    text-align: left;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.forget {
+    width: 96%;
+}
+
+.login-form-btn {
+    background:#dc3545;
+    background-color: #dc3545;
+    border-radius: 2px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.login-form-btn:hover {
+    background:#ffc107;
+    background-color:#ffc107;
+}
+
+.txt1 {
+    display: flex;
+    align-items: center;
+    color: #2a2a2a !important;
+    font-size: 12px;
+}
+
+
+.usericons {
+    background-color: transparent;
+}
+
+
+h2.ngoname {
+    color: #2a2a36;
+    font-weight: 700;
+    text-align: left;
+    padding-bottom: 0;
+    font-size: 25px;
+}
+
+a.txt1.forget-btn:hover {
+    color: #ffc107 !important;
+}
+
+.test_02 {
+    text-align: left;
+    margin-bottom: 0px;
+    color: #2a2a2a;
+    font-size: 14px;
+    word-break: break-all;
+}
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .login-form {
+        width: 100%;
+    }
+
+    .login_newtheme {
+        align-items: baseline;
+        margin-top: 60px;
+        padding: 0;
+    }
+
+    .px-30 {
+        width: 158px;
+    }
+
+   
+}
+
+input[type=text], input[type=password] {
+    background-color:#fff;
+    outline: 0;
+}
+.floating-input:focus ~ label, .floating-input:not(:placeholder-shown) ~ label {
+    left: 0;
+    top: 0;
+    top: -10px;
+    padding: 0;
+    color: #ffc107;
+    font-size: 12px;
+    background-color: transparent;
+}
+.floating-label {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+input[type=text], input[type=password] {
+    border: 0;
+    border-bottom: 1px solid #ffc107 !important;
+    border-radius: 0 !important;
+    padding: 0;
+    color: #2a2a2a;
+    font-weight: 600;
+}
+.form-control:focus {
+    border: 0 !important;
+    border-bottom: 1px solid #ffc107 !important;
+}
+
+.floating-input:focus {
+    border: 0 !important;
+    border-bottom: 1px solid #ffc107 !important;
+}
+
+label {
+    color: #ffc107;
+    font-size: 12px;
+    left: 0;
+    top: -10px;
+    padding: 0;
+    background-color:transparent;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+    -webkit-box-shadow: 0 0 0 30px #fff inset !important;
+}
+
+
+
+
+
+
+
+
+

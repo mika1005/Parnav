@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+   
+    
+}
+.navbar-search{
+    width: 30rem;
+    font-size: 0.85rem;
+   
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+  }
+
+  .dropdown > .dropdown-toggle:active {
+    pointer-events: none;
+}
+.sidebar-link{
+    display: flex;
+    align-items: center;
+}
+.sidebar-link .right-icon{
+    display: inline-flex;
+}
+.sidebar-link[aria-expanded="true"] .right-icon {
+    transform: rotate(180deg);
+  }
+
+
+
+
