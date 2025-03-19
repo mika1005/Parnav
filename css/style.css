@@ -885,7 +885,7 @@ a.btn-doante-now{
     border-radius: 5px;
 }
 a.btn-doante-now:hover{
-
+background-color: #C8C8C8;
 }
 .btn-donate {
     border: 1px solid #CC2727;
@@ -1263,7 +1263,7 @@ text-align: center;
 
 }
 .card-testimonial {
-   
+   padding: 0%;
 }
 .card-testimonial img {
     border-radius: 5px;
