@@ -63,6 +63,7 @@ table.table td a {
 }
 table.table td a.view {
     color: #03A9F4;
+    cursor: pointer;
 }
 table.table td a.edit {
     color: #FFC107;
